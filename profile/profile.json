@@ -1,0 +1,153 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "Scholarship"
+      ],
+      "degree": "Bachelor of Science",
+      "department": "Computer Science",
+      "duration": "2020 - 2024",
+      "school_name": "York University"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_KabirPatel",
+  "highlighted_projects": [
+    {
+      "description": "Designed an agent to automate data reporting for stakeholders. Implemented multi-step tool use (retrieval, transformation, summarization) with GPT, LangChain, and Snowflake; scheduled runs and wrote clear exception-handling/reporting to improve reliability and trust.",
+      "name": "Agentic AI Model"
+    },
+    {
+      "description": "Built a Sigma-driven recommender that blends market/demographic features (Census, listing feeds) to suggest target submarkets and competitive rents; delivered interactive visuals and evaluation notes to explain recommendations to non-technical users.",
+      "name": "Real Estate Recommendation Engine"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Kabir Patel",
+  "others": [
+    {
+      "bullets": [
+        "Cognizant GenAI Accelerator - Top Performer (2025)",
+        "Snowflake Data Warehousing - Certified (2024)"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Basketball player",
+        "Competitive gaming",
+        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Contributing to end-to-end data projects: Linux/SQL cluster monitoring, Core Java utilities, and Spring Boot services. Focused on reproducible environments, clean schemas, and actionable dashboards while practicing Agile delivery and Git-based workflows",
+      "duration": "August 2025 - Present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "Emergent Ventures",
+      "description": "Produced weekly lease/sales intelligence using Redfin/RealPage/Census APIs; built Snowflake/AWS property datasets (500+ TB) with automated Python pipelines; created Power BI/Sigma BI dashboards by class/ZIP/lease type; supported broker valuations and trend analysis; contributed GenAI research briefs with GPT + LangChain",
+      "duration": "January 2023 - Present",
+      "title": "Real Estate  Data and AI Consultant"
+    },
+    {
+      "company": "Mathnasium",
+      "description": "Managed daily operations, training schedules, and team workflows aligned to learning standards; coordinated KPI tracking and performance summaries (attendance/retention); ensured parent communications and budget/vendor management; prepared monthly reports to HQ; improved center efficiency through data-driven routines.",
+      "duration": "May 2024 - Present",
+      "title": "Centre Director"
+    },
+    {
+      "company": "Cognizant",
+      "description": "Trained on enterprise GenAI use cases, LLM evaluation, and prompt engineering; built agents for document summarization and trend extraction; integrated Azure OpenAI, LangChain, and Snowflake AI to automate market research and reduce time-to-insight for stakeholders.",
+      "duration": "January 2025 - April 2025",
+      "title": "GenAI Accelerator Program Participant"
+    },
+    {
+      "company": "Fairfield Hotel Group",
+      "description": "Delivered financial and operational analysis across a CRE portfolio; forecasted occupancy/revenue trends; generated KPIs (cap rates, IRR, rent composition); automated monthly pipelines (90% time reduction); built investor dashboards; supported audits and reconciliations with clean documentation.",
+      "duration": "January 2022 - December 2023",
+      "title": "Data Analyst Intern"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "HuggingFace Transformers",
+      "LLMs",
+      "Agentic AI model",
+      "PyTorch",
+      "Tensorflow",
+      "Real Estate data APIs",
+      "NLP",
+      "Vector databases",
+      "Prompt Engineering"
+    ],
+    "familiar": [
+      "Fortran",
+      "Azure",
+      "AWS",
+      "PowerQuery",
+      "Data streaming",
+      "Kafka",
+      "Hadoop"
+    ],
+    "proficient": [
+      "Java",
+      "Python",
+      "Snowflake",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git",
+      "Sigma Computing BI",
+      "PowerBI",
+      "Azure OpenAI",
+      "LangGraph",
+      "JSON",
+      "YAML"
+    ]
+  },
+  "summary": "Im a detail-oriented Data \u0026 AI/ML professional with 3+ years of experience building market-intelligence dashboards, reliable data pipelines, and practical GenAI tools across real estate, education, and fintech. I love turning messy data into clear, decision-ready stories, and using LLMs, agents, and NLP to cut busywork and speed up insight. Data engineering clicks for me because watching raw data become something people can actually useand truststill feels a bit magical. Outside of tech, I tutor math and physics, tinker with cars (Im my own mechanic), and keep my problem-solving sharp on LeetCode."
+}

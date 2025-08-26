@@ -1,0 +1,139 @@
+# Preferred name (Characters only)
+name: "Kabir Patel"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_KabirPatel
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: Im a detail-oriented Data & AI/ML professional with 3+ years of experience building market-intelligence dashboards, reliable data pipelines, and practical GenAI tools across real estate, education, and fintech. I love turning messy data into clear, decision-ready stories, and using LLMs, agents, and NLP to cut busywork and speed up insight. Data engineering clicks for me because watching raw data become something people can actually useand truststill feels a bit magical. Outside of tech, I tutor math and physics, tinker with cars (Im my own mechanic), and keep my problem-solving sharp on LeetCode.
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Python
+    - Snowflake
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+    - Sigma Computing BI
+    - PowerBI
+    - Azure OpenAI
+    - LangGraph
+    - JSON
+    - YAML
+  # At least 5 skills
+  competent:
+    - HuggingFace Transformers
+    - LLMs
+    - Agentic AI model
+    - PyTorch
+    - Tensorflow
+    - Real Estate data APIs
+    - NLP
+    - Vector databases
+    - Prompt Engineering
+  # At least 5 skills
+  familiar:
+    - Fortran
+    - Azure
+    - AWS
+    - PowerQuery
+    - Data streaming
+    - Kafka
+    - Hadoop
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Agentic AI Model"
+    description: "Designed an agent to automate data reporting for stakeholders. Implemented multi-step tool use (retrieval, transformation, summarization) with GPT, LangChain, and Snowflake; scheduled runs and wrote clear exception-handling/reporting to improve reliability and trust." 
+  - name: "Real Estate Recommendation Engine"
+    description: "Built a Sigma-driven recommender that blends market/demographic features (Census, listing feeds) to suggest target submarkets and competitive rents; delivered interactive visuals and evaluation notes to explain recommendations to non-technical users."
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "August 2025 - Present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Contributing to end-to-end data projects: Linux/SQL cluster monitoring, Core Java utilities, and Spring Boot services. Focused on reproducible environments, clean schemas, and actionable dashboards while practicing Agile delivery and Git-based workflows"
+  - title: "Real Estate  Data and AI Consultant"
+    company: "Emergent Ventures"
+    duration: "January 2023 - Present"
+    description: "Produced weekly lease/sales intelligence using Redfin/RealPage/Census APIs; built Snowflake/AWS property datasets (500+ TB) with automated Python pipelines; created Power BI/Sigma BI dashboards by class/ZIP/lease type; supported broker valuations and trend analysis; contributed GenAI research briefs with GPT + LangChain"
+  - title: "Centre Director"
+    company: "Mathnasium"
+    duration: "May 2024 - Present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Managed daily operations, training schedules, and team workflows aligned to learning standards; coordinated KPI tracking and performance summaries (attendance/retention); ensured parent communications and budget/vendor management; prepared monthly reports to HQ; improved center efficiency through data-driven routines."
+  - title: "GenAI Accelerator Program Participant"
+    company: "Cognizant"
+    duration: "January 2025 - April 2025"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Trained on enterprise GenAI use cases, LLM evaluation, and prompt engineering; built agents for document summarization and trend extraction; integrated Azure OpenAI, LangChain, and Snowflake AI to automate market research and reduce time-to-insight for stakeholders."
+  - title: "Data Analyst Intern"
+    company: "Fairfield Hotel Group"
+    duration: "January 2022 - December 2023"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Delivered financial and operational analysis across a CRE portfolio; forecasted occupancy/revenue trends; generated KPIs (cap rates, IRR, rent composition); automated monthly pipelines (90% time reduction); built investor dashboards; supported audits and reconciliations with clean documentation."
+
+
+#List of edcuation
+education: 
+  - school_name: "York University"
+    duration: "2020 - 2024"
+    degree: "Bachelor of Science"
+    department: "Computer Science"
+    # optional
+    awards_achievements: 
+      - "Scholarship"
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Cognizant GenAI Accelerator - Top Performer (2025)"
+      - "Snowflake Data Warehousing - Certified (2024)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Basketball player"
+      - "Competitive gaming"
+      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
