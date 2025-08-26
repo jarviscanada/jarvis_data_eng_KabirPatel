@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 psql_host=$1
 psql_port=$2
@@ -22,3 +22,10 @@ cpu_mhz=$(echo "$lscpu_out" | egrep "^CPU MHz:" | awk -F: '{print $2}' | xargs |
 l2_cache=$(echo "$lscpu_out" | egrep "^L2 cache:" | awk -F: '{print $2}' | egrep -o '[0-9]+' | xargs)
 total_mem=$(vmstat --unit M | tail -1 | awk '{print $4}')
 timestamp=$(date '+%Y-%m-%d %H:%M:%S') # current timestamp in `2019-11-26 14:40:19` format; use `date` cmd
+
+insert_stmt="INSERT INTO host_info(timestamp, hostname, cpu_number, cpu_architecture, cpu_model, cpu_mhz, l2_cache, total_mem) VALUES('$timestamp', '$hostname', '$cpu_number', '$cpu_architecture', '$cpu_model', '$cpu_mhz', '$l2_cache', '$total_mem')"
+
+export PGPASSWORD=$psql_password
+psql -h $psql_host -p $psql_port -d $db_name -U $psql_user -c "$insert_stmt"
+
+exit $?

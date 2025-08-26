@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 psql_host=$1
 psql_port=$2
@@ -23,3 +23,10 @@ disk_available=$(df -BM ~/ | tail -1 | awk '{gsub(/M/,"",$4); print $4}')
 timestamp=$(date '+%Y-%m-%d %H:%M:%S')
 
 host_id="(SELECT id FROM host_info WHERE hostname='$hostname')";
+
+insert_stmt="INSERT INTO host_usage(timestamp, memory_free, cpu_idle, cpu_kernel, disk_io, disk_available, host_id) VALUES('$timestamp', '$memory_free', '$cpu_idle', '$cpu_kernel', '$disk_io', '$disk_available', $host_id)"
+
+export PGPASSWORD=$psql_password
+psql -h $psql_host -p $psql_port -d $db_name -U $psql_user -c "$insert_stmt"
+
+exit $?
