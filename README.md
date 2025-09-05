@@ -1,12 +1,12 @@
 # Kabir Patel . Jarvis Consulting
 
-Im a detail-oriented Data & AI/ML professional with 3+ years of experience building market-intelligence dashboards, reliable data pipelines, and practical GenAI tools across real estate, education, and fintech. I love turning messy data into clear, decision-ready stories, and using LLMs, agents, and NLP to cut busywork and speed up insight. Data engineering clicks for me because watching raw data become something people can actually useand truststill feels a bit magical. Outside of tech, I tutor math and physics, tinker with cars (Im my own mechanic), and keep my problem-solving sharp on LeetCode.
+I am a data professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in turning large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-driven solutions that automate workflows and enhance decision-making. Passionate about building robust, production-grade data infrastructure that powers actionable insights and business growth.
 
 ## Skills
 
-**Proficient:** Java, Python, Snowflake, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Sigma Computing BI, PowerBI, Azure OpenAI, LangGraph, JSON, YAML
+**Proficient:** Python, Snowflake, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Sigma Computing BI, PowerBI, Azure OpenAI, LangGraph, JSON, YAML
 
-**Competent:** HuggingFace Transformers, LLMs, Agentic AI model, PyTorch, Tensorflow, Real Estate data APIs, NLP, Vector databases, Prompt Engineering
+**Competent:** Java, HuggingFace Transformers, LLMs, Agentic AI model, PyTorch, Tensorflow, ScikitLearn, Real Estate data APIs, NLP, Vector databases, Prompt Engineering
 
 **Familiar:** Fortran, Azure, AWS, PowerQuery, Data streaming, Kafka, Hadoop
 
@@ -15,34 +15,22 @@ Im a detail-oriented Data & AI/ML professional with 3+ years of experience build
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KabirPatel](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/core_java)]:
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/linux_sql)]:
       
-  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/hadoop)]: Not Started
-
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/spark)]: Not Started
-
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/cloud_devops)]: Not Started
+  - Dispatched fully-automated monitoring agents hosted on multiple Linux servers that communicate real-time hardware and resource usage data to a centralized database.
+  - Supported Linux Cluster Administration team with a transformed stream of data to research upon, which resulted into a scalable and cost-efficient network system design, saving the company $36000 annually.
+  - Tech Stack: Bash, Docker, PSQL, Git, Cron (for scheduling agents), Vim, Linux systems
 
 
 ## Highlighted Projects
-**Agentic AI Model**: Designed an agent to automate data reporting for stakeholders. Implemented multi-step tool use (retrieval, transformation, summarization) with GPT, LangChain, and Snowflake; scheduled runs and wrote clear exception-handling/reporting to improve reliability and trust.
+**Agentic AI Model**:  - Designed an agent to automate data reporting for stakeholders. - Implemented multi-step tool use (retrieval, transformation, summarization); scheduled runs and implemented clear exception-handling/reporting to improve reliability and trust. - Tech Stack: Python, S3 storage, Snowflake, Sigma BI, LangChain, GPT, JSON, Git
 
-**Real Estate Recommendation Engine**: Built a Sigma-driven recommender that blends market/demographic features (Census, listing feeds) to suggest target submarkets and competitive rents; delivered interactive visuals and evaluation notes to explain recommendations to non-technical users.
+**Real Estate Recommendation Engine**:  - Deployed a real-time dashboard that blends market/demographic features (Census, listing feeds, exclusive market insights) to suggest target submarkets for investments. - Utilized Machine Learning to recognize factors contributing towards the real estate market. - Designed a forecaster algorithm using AI/ML to predict market trends. - Delivered interactive visuals and evaluation notes to explain recommendations to non-technical users. - Tech Stack: Python, Tensorflow, SciKitLearn, GPT, Snowflake, Cortex AI, Sigma BI, US Census API, Redfin API, Zillow API, RealPage API
 
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (August 2025 - Present)**: Contributing to end-to-end data projects: Linux/SQL cluster monitoring, Core Java utilities, and Spring Boot services. Focused on reproducible environments, clean schemas, and actionable dashboards while practicing Agile delivery and Git-based workflows
+**Data Engineer, Jarvis Consulting (August 2025 - Present)**:  - Developed end-to-end data projects such as Linux/SQL cluster monitoring. - Focused on reproducible environments, clean schemas, and actionable dashboards while practicing Agile delivery and Git-based workflows.
 
 **Real Estate  Data and AI Consultant, Emergent Ventures (January 2023 - Present)**: Produced weekly lease/sales intelligence using Redfin/RealPage/Census APIs; built Snowflake/AWS property datasets (500+ TB) with automated Python pipelines; created Power BI/Sigma BI dashboards by class/ZIP/lease type; supported broker valuations and trend analysis; contributed GenAI research briefs with GPT + LangChain
 

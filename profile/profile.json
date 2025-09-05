@@ -13,53 +13,23 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_KabirPatel",
   "highlighted_projects": [
     {
-      "description": "Designed an agent to automate data reporting for stakeholders. Implemented multi-step tool use (retrieval, transformation, summarization) with GPT, LangChain, and Snowflake; scheduled runs and wrote clear exception-handling/reporting to improve reliability and trust.",
+      "description": " - Designed an agent to automate data reporting for stakeholders. - Implemented multi-step tool use (retrieval, transformation, summarization); scheduled runs and implemented clear exception-handling/reporting to improve reliability and trust. - Tech Stack: Python, S3 storage, Snowflake, Sigma BI, LangChain, GPT, JSON, Git",
       "name": "Agentic AI Model"
     },
     {
-      "description": "Built a Sigma-driven recommender that blends market/demographic features (Census, listing feeds) to suggest target submarkets and competitive rents; delivered interactive visuals and evaluation notes to explain recommendations to non-technical users.",
+      "description": " - Deployed a real-time dashboard that blends market/demographic features (Census, listing feeds, exclusive market insights) to suggest target submarkets for investments. - Utilized Machine Learning to recognize factors contributing towards the real estate market. - Designed a forecaster algorithm using AI/ML to predict market trends. - Delivered interactive visuals and evaluation notes to explain recommendations to non-technical users. - Tech Stack: Python, Tensorflow, SciKitLearn, GPT, Snowflake, Cortex AI, Sigma BI, US Census API, Redfin API, Zillow API, RealPage API",
       "name": "Real Estate Recommendation Engine"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": [
+        "Dispatched fully-automated monitoring agents hosted on multiple Linux servers that communicate real-time hardware and resource usage data to a centralized database.",
+        "Supported Linux Cluster Administration team with a transformed stream of data to research upon, which resulted into a scalable and cost-efficient network system design, saving the company $36000 annually.",
+        "Tech Stack: Bash, Docker, PSQL, Git, Cron (for scheduling agents), Vim, Linux systems"
+      ],
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
-    },
-    {
-      "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      ],
-      "git_url": "/core_java",
-      "name": "Core Java Apps"
-    },
-    {
-      "description": "",
-      "git_url": "/springboot",
-      "name": "Springboot App"
-    },
-    {
-      "description": "",
-      "git_url": "/python_data_anlytics",
-      "name": "Python Data Analytics"
-    },
-    {
-      "description": "",
-      "git_url": "/hadoop",
-      "name": "Hadoop"
-    },
-    {
-      "description": "",
-      "git_url": "/spark",
-      "name": "Spark"
-    },
-    {
-      "description": "",
-      "git_url": "/cloud_devops",
-      "name": "Cloud/DevOps"
     }
   ],
   "name": "Kabir Patel",
@@ -82,10 +52,10 @@
   ],
   "professional_experience": [
     {
-      "company": "Jarvis",
-      "description": "Contributing to end-to-end data projects: Linux/SQL cluster monitoring, Core Java utilities, and Spring Boot services. Focused on reproducible environments, clean schemas, and actionable dashboards while practicing Agile delivery and Git-based workflows",
+      "company": "Jarvis Consulting",
+      "description": " - Developed end-to-end data projects such as Linux/SQL cluster monitoring. - Focused on reproducible environments, clean schemas, and actionable dashboards while practicing Agile delivery and Git-based workflows.",
       "duration": "August 2025 - Present",
-      "title": "Software Developer"
+      "title": "Data Engineer"
     },
     {
       "company": "Emergent Ventures",
@@ -114,11 +84,13 @@
   ],
   "skills": {
     "competent": [
+      "Java",
       "HuggingFace Transformers",
       "LLMs",
       "Agentic AI model",
       "PyTorch",
       "Tensorflow",
+      "ScikitLearn",
       "Real Estate data APIs",
       "NLP",
       "Vector databases",
@@ -134,7 +106,6 @@
       "Hadoop"
     ],
     "proficient": [
-      "Java",
       "Python",
       "Snowflake",
       "Linux/Bash",
@@ -149,5 +120,5 @@
       "YAML"
     ]
   },
-  "summary": "Im a detail-oriented Data \u0026 AI/ML professional with 3+ years of experience building market-intelligence dashboards, reliable data pipelines, and practical GenAI tools across real estate, education, and fintech. I love turning messy data into clear, decision-ready stories, and using LLMs, agents, and NLP to cut busywork and speed up insight. Data engineering clicks for me because watching raw data become something people can actually useand truststill feels a bit magical. Outside of tech, I tutor math and physics, tinker with cars (Im my own mechanic), and keep my problem-solving sharp on LeetCode."
+  "summary": "I am a data professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in turning large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-driven solutions that automate workflows and enhance decision-making. Passionate about building robust, production-grade data infrastructure that powers actionable insights and business growth."
 }
