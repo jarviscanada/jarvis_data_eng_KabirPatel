@@ -15,17 +15,16 @@ I am a data professional with 3+ years of experience designing and deploying sca
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KabirPatel](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/linux_sql)]:
-      
-  - Dispatched fully-automated monitoring agents hosted on multiple Linux servers that communicate real-time hardware and resource usage data to a centralized database.
-  - Supported Linux Cluster Administration team with a transformed stream of data to research upon, which resulted into a scalable and cost-efficient network system design, saving the company $36000 annually.
-  - Tech Stack: Bash, Docker, PSQL, Git, Cron (for scheduling agents), Vim, Linux systems
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/linux_sql)]: Dispatched fully-automated monitoring agents hosted on multiple Linux servers that communicate real-time hardware and resource usage data to a centralized database. Supported Linux Cluster Administration team with a transformed stream of data to research upon, which resulted into a scalable and cost-efficient network system design, saving the company $36000 annually.
+ Tech Stack: Bash, Docker, PSQL, Git, Cron (for scheduling agents), Vim, Linux systems
 
 
 ## Highlighted Projects
-**Agentic AI Model**:  - Designed an agent to automate data reporting for stakeholders. - Implemented multi-step tool use (retrieval, transformation, summarization); scheduled runs and implemented clear exception-handling/reporting to improve reliability and trust. - Tech Stack: Python, S3 storage, Snowflake, Sigma BI, LangChain, GPT, JSON, Git
+**Agentic AI Model**: - Designed an agent to automate data reporting for stakeholders. Implemented multi-step tool use (retrieval, transformation, summarization); scheduled runs and implemented clear exception-handling/reporting to improve reliability and trust.
+- "Tech Stack: Python, S3 storage, Snowflake, Sigma BI, LangChain, GPT, JSON, Git"
 
-**Real Estate Recommendation Engine**:  - Deployed a real-time dashboard that blends market/demographic features (Census, listing feeds, exclusive market insights) to suggest target submarkets for investments. - Utilized Machine Learning to recognize factors contributing towards the real estate market. - Designed a forecaster algorithm using AI/ML to predict market trends. - Delivered interactive visuals and evaluation notes to explain recommendations to non-technical users. - Tech Stack: Python, Tensorflow, SciKitLearn, GPT, Snowflake, Cortex AI, Sigma BI, US Census API, Redfin API, Zillow API, RealPage API
+
+**Real Estate Recommendation Engine**: Deployed a real-time dashboard that blends market/demographic features (Census, listing feeds, exclusive market insights) to suggest target submarkets for investments. Utilized Machine Learning to recognize factors contributing towards the real estate market. Designed a forecaster algorithm using AI/ML to predict market trends. Delivered interactive visuals and evaluation notes to explain recommendations to non-technical users. Tech Stack: Python, Tensorflow, SciKitLearn, GPT, Snowflake, Cortex AI, Sigma BI, US Census API, Redfin API, Zillow API, RealPage API
 
 
 ## Professional Experiences

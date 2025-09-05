@@ -13,21 +13,17 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_KabirPatel",
   "highlighted_projects": [
     {
-      "description": " - Designed an agent to automate data reporting for stakeholders. - Implemented multi-step tool use (retrieval, transformation, summarization); scheduled runs and implemented clear exception-handling/reporting to improve reliability and trust. - Tech Stack: Python, S3 storage, Snowflake, Sigma BI, LangChain, GPT, JSON, Git",
+      "description": "- Designed an agent to automate data reporting for stakeholders. Implemented multi-step tool use (retrieval, transformation, summarization); scheduled runs and implemented clear exception-handling/reporting to improve reliability and trust.\n- \"Tech Stack: Python, S3 storage, Snowflake, Sigma BI, LangChain, GPT, JSON, Git\"\n",
       "name": "Agentic AI Model"
     },
     {
-      "description": " - Deployed a real-time dashboard that blends market/demographic features (Census, listing feeds, exclusive market insights) to suggest target submarkets for investments. - Utilized Machine Learning to recognize factors contributing towards the real estate market. - Designed a forecaster algorithm using AI/ML to predict market trends. - Delivered interactive visuals and evaluation notes to explain recommendations to non-technical users. - Tech Stack: Python, Tensorflow, SciKitLearn, GPT, Snowflake, Cortex AI, Sigma BI, US Census API, Redfin API, Zillow API, RealPage API",
+      "description": "Deployed a real-time dashboard that blends market/demographic features (Census, listing feeds, exclusive market insights) to suggest target submarkets for investments. Utilized Machine Learning to recognize factors contributing towards the real estate market. Designed a forecaster algorithm using AI/ML to predict market trends. Delivered interactive visuals and evaluation notes to explain recommendations to non-technical users. Tech Stack: Python, Tensorflow, SciKitLearn, GPT, Snowflake, Cortex AI, Sigma BI, US Census API, Redfin API, Zillow API, RealPage API",
       "name": "Real Estate Recommendation Engine"
     }
   ],
   "jarvis_projects": [
     {
-      "description": [
-        "Dispatched fully-automated monitoring agents hosted on multiple Linux servers that communicate real-time hardware and resource usage data to a centralized database.",
-        "Supported Linux Cluster Administration team with a transformed stream of data to research upon, which resulted into a scalable and cost-efficient network system design, saving the company $36000 annually.",
-        "Tech Stack: Bash, Docker, PSQL, Git, Cron (for scheduling agents), Vim, Linux systems"
-      ],
+      "description": "Dispatched fully-automated monitoring agents hosted on multiple Linux servers that communicate real-time hardware and resource usage data to a centralized database. Supported Linux Cluster Administration team with a transformed stream of data to research upon, which resulted into a scalable and cost-efficient network system design, saving the company $36000 annually.\n Tech Stack: Bash, Docker, PSQL, Git, Cron (for scheduling agents), Vim, Linux systems",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
     }
