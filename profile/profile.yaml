@@ -52,19 +52,15 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Dispatched fully-automated monitoring agents hosted on multiple Linux servers that communicate real-time hardware and resource usage data to a centralized database. Supported Linux Cluster Administration team with a transformed stream of data to research upon, which resulted into a scalable and cost-efficient network system design, saving the company $36000 annually.\n
-Tech Stack: Bash, Docker, PSQL, Git, Cron (for scheduling agents), Vim, Linux systems"
+    description: "Dispatched fully-automated monitoring agents hosted on multiple Linux servers that communicate real-time hardware and resource usage data to a centralized database. Supported Linux Cluster Administration team with a transformed stream of data to research upon, which resulted into a scalable and cost-efficient network system design, saving the company $36000 annually. Tech Stack: Bash, Docker, PSQL, Git, Cron (for scheduling agents), Vim, Linux systems"
 # List of personal or academic projects
 # Feel free to add more projects
 highlighted_projects:
     #project name
   - name: "Agentic AI Model"
-    description: |
-      - Designed an agent to automate data reporting for stakeholders. Implemented multi-step tool use (retrieval, transformation, summarization); scheduled runs and implemented clear exception-handling/reporting to improve reliability and trust.
-      - "Tech Stack: Python, S3 storage, Snowflake, Sigma BI, LangChain, GPT, JSON, Git"
+    description: " Designed an agent to automate data reporting for stakeholders. Implemented multi-step tool use (retrieval, transformation, summarization); scheduled runs and implemented clear exception-handling/reporting to improve reliability and trust. Tech Stack: Python, S3 storage, Snowflake, Sigma BI, LangChain, GPT, JSON, Git"
   - name: "Real Estate Recommendation Engine"
-    description: "Deployed a real-time dashboard that blends market/demographic features (Census, listing feeds, exclusive market insights) to suggest target submarkets for investments. Utilized Machine Learning to recognize factors contributing towards the real estate market. Designed a forecaster algorithm using AI/ML to predict market trends. Delivered interactive visuals and evaluation notes to explain recommendations to non-technical users.
-Tech Stack: Python, Tensorflow, SciKitLearn, GPT, Snowflake, Cortex AI, Sigma BI, US Census API, Redfin API, Zillow API, RealPage API"
+    description: "Deployed a real-time dashboard that blends market/demographic features (Census, listing feeds, exclusive market insights) to suggest target submarkets for investments. Utilized Machine Learning to recognize factors contributing towards the real estate market. Designed a forecaster algorithm using AI/ML to predict market trends. Delivered interactive visuals and evaluation notes to explain recommendations to non-technical users. Tech Stack: Python, Tensorflow, SciKitLearn, GPT, Snowflake, Cortex AI, Sigma BI, US Census API, Redfin API, Zillow API, RealPage API"
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
@@ -75,18 +71,16 @@ professional_experience:
     company: "Jarvis Consulting"
     duration: "August 2025 - Present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "
-      - Developed end-to-end data projects such as Linux/SQL cluster monitoring.
-      - Focused on reproducible environments, clean schemas, and actionable dashboards while practicing Agile delivery and Git-based workflows."
-  - title: "Real Estate  Data and AI Consultant"
-    company: "Emergent Ventures"
-    duration: "January 2023 - Present"
-    description: "Produced weekly lease/sales intelligence using Redfin/RealPage/Census APIs; built Snowflake/AWS property datasets (500+ TB) with automated Python pipelines; created Power BI/Sigma BI dashboards by class/ZIP/lease type; supported broker valuations and trend analysis; contributed GenAI research briefs with GPT + LangChain"
+    description: "Developed end-to-end data projects such as Linux/SQL cluster monitoring. Focused on reproducible environments, clean schemas, and actionable dashboards while practicing Agile delivery and Git-based workflows. Utilized various data skills and tools to create automated processes and achieve scalable data pipelines and resilient data integrity to reduce human input by 60%, hence, economizing labour costs and improving data processing speeds."
   - title: "Centre Director"
     company: "Mathnasium"
     duration: "May 2024 - Present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Managed daily operations, training schedules, and team workflows aligned to learning standards; coordinated KPI tracking and performance summaries (attendance/retention); ensured parent communications and budget/vendor management; prepared monthly reports to HQ; improved center efficiency through data-driven routines."
+    description: "Managed daily operations, training schedules, and team workflows aligned to learning standards; coordinated KPI tracking and performance summaries (attendance/retention); ensured parent communications and budget/vendor management; prepared monthly reports to HQ; improved center efficiency through data-driven routines."  
+  - title: "Real Estate  Data and AI Consultant"
+    company: "Emergent Ventures"
+    duration: "January 2023 - May 2025"
+    description: "Produced weekly lease/sales intelligence using Redfin/RealPage/Census APIs; built Snowflake/AWS property datasets (500+ TB) with automated Python pipelines; created Power BI/Sigma BI dashboards by class/ZIP/lease type; supported broker valuations and trend analysis; contributed GenAI research briefs with GPT + LangChain."
   - title: "GenAI Accelerator Program Participant"
     company: "Cognizant"
     duration: "January 2025 - April 2025"
@@ -102,7 +96,7 @@ professional_experience:
 #List of edcuation
 education: 
   - school_name: "York University"
-    duration: "2020 - 2024"
+    duration: ""
     degree: "Bachelor of Science"
     department: "Computer Science"
     # optional
@@ -117,8 +111,3 @@ others:
     bullets:
       - "Cognizant GenAI Accelerator - Top Performer (2025)"
       - "Snowflake Data Warehousing - Certified (2024)"
-  - title: "Activities/Hobbies"
-    bullets:
-      - "Basketball player"
-      - "Competitive gaming"
-      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
