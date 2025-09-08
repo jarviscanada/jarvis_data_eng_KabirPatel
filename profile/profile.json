@@ -13,17 +13,17 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_KabirPatel",
   "highlighted_projects": [
     {
-      "description": "Designed an agent to automate data reporting for stakeholders. Implemented multi-step tool use (retrieval, transformation, summarization); scheduled runs and implemented clear exception-handling/reporting to improve reliability and trust. Tech Stack: Python, S3 storage, Snowflake, Sigma BI, LangChain, GPT, JSON, Git",
+      "description": "Designed and deployed an Agentic AI model to automate data reporting for stakeholders. Orchestrated multi-step agent workflows (retrieval, transformation, summarization) with robust exception handling and reporting, improving data accuracy and reporting efficiency. Tech Stack: Python, S3, Snowflake, Sigma BI, LangChain, GPT, JSON, Git",
       "name": "Agentic AI Model"
     },
     {
-      "description": "Deployed a real-time dashboard that blends market/demographic features (Census, listing feeds, exclusive market insights) to suggest target submarkets for investments. Utilized Machine Learning to recognize factors contributing towards the real estate market. Designed a forecaster algorithm using AI/ML to predict market trends. Delivered interactive visuals and evaluation notes to explain recommendations to non-technical users. Tech Stack: Python, Tensorflow, SciKitLearn, GPT, Snowflake, Cortex AI, Sigma BI, US Census API, Redfin API, Zillow API, RealPage API",
+      "description": "Developed a real-time recommendation engine to identify high-potential submarkets for real estate investments using demographic, listing and market data. Built forecasting algorithms with AI/ML models to predict property trends and delivered interactive dashboards and insights for non-technical stakeholders. Tech Stack: Python, TensorFlow, Scikit-learn, GPT, Snowflake, Sigma BI, Redfin API, Zillow API, US Census API",
       "name": "Real Estate Recommendation Engine"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Dispatched fully-automated monitoring agents hosted on multiple Linux servers that communicate real-time hardware and resource usage data to a centralized database. Supported Linux Cluster Administration team with a transformed stream of data to research upon, which resulted into a scalable and cost-efficient network system design, saving the company $36000 annually. Tech Stack: Bash, Docker, PSQL, Git, Cron (for scheduling agents), Vim, Linux systems",
+      "description": "Built and deployed automated monitoring agents on multiple Linux servers to capture real-time hardware and resource metrics, storing data in a centralized PostgreSQL database. Delivered insights that optimized cluster performance and reduced annual operational costs by $36,000. Tech Stack: Bash, Docker, PostgreSQL, Git, Cron, Linux",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
     }
@@ -41,31 +41,31 @@
   "professional_experience": [
     {
       "company": "Jarvis Consulting",
-      "description": "Developed end-to-end data projects such as Linux/SQL cluster monitoring. Focused on reproducible environments, clean schemas, and actionable dashboards while practicing Agile delivery and Git-based workflows. Utilized various data skills and tools to create automated processes and achieve scalable data pipelines and resilient data integrity to reduce human input by 60%, hence, economizing labour costs and improving data processing speeds.",
+      "description": "Designed and deployed end-to-end data pipelines, ETL workflows, and data models supporting analytics and automation initiatives. Built a Linux/SQL cluster monitoring platform to track system performance in real time, enabling proactive issue detection and reducing downtime by 40%. Developed clean database schemas, automated ETL processes, and interactive dashboards, which improved data consistency, reduced manual reporting by 60%, and enhanced overall operational efficiency while working in an Agile, Git-based environment to ensure reproducibility and faster deployments.",
       "duration": "August 2025 - Present",
       "title": "Data Engineer"
     },
     {
       "company": "Mathnasium",
-      "description": "Managed daily operations, training schedules, and team workflows aligned to learning standards; coordinated KPI tracking and performance summaries (attendance/retention); ensured parent communications and budget/vendor management; prepared monthly reports to HQ; improved center efficiency through data-driven routines.",
+      "description": "Managed daily operations, team performance, and learning workflows, aligning instructional quality with company-wide standards. Designed data-driven routines to track attendance, retention, and student progress, improving parent satisfaction and reducing churn by 15%. Oversaw budgeting, vendor management, and stakeholder communication, while optimizing resource allocation and streamlining operational processes for greater efficiency.",
       "duration": "May 2024 - Present",
       "title": "Centre Director"
     },
     {
       "company": "Emergent Ventures",
-      "description": "Produced weekly lease/sales intelligence using Redfin/RealPage/Census APIs; built Snowflake/AWS property datasets (500+ TB) with automated Python pipelines; created Power BI/Sigma BI dashboards by class/ZIP/lease type; supported broker valuations and trend analysis; contributed GenAI research briefs with GPT + LangChain.",
+      "description": "Developed AI-powered analytics solutions and automated real estate intelligence pipelines to enhance data-driven investment strategies. Built Python-based pipelines integrating Redfin, RealPage, Zillow, and US Census APIs, ingesting and processing 500+ TB of property and demographic data. Designed Snowflake data warehouses and Sigma/Power BI dashboards for lease, sales, and demographic analytics, enabling smarter portfolio decisions. Leveraged LLMs and LangChain to build GenAI-powered valuation and trend analysis tools, reducing manual research time by 40% and improving broker insights.",
       "duration": "January 2023 - May 2025",
-      "title": "Real Estate  Data and AI Consultant"
+      "title": "Real Estate Data \u0026 AI Consultant"
     },
     {
       "company": "Cognizant",
-      "description": "Trained on enterprise GenAI use cases, LLM evaluation, and prompt engineering; built agents for document summarization and trend extraction; integrated Azure OpenAI, LangChain, and Snowflake AI to automate market research and reduce time-to-insight for stakeholders.",
+      "description": "Completed an enterprise-focused GenAI program specializing in LLMs, AI agents, and prompt engineering. Designed document summarization and trend extraction agents using tools like LangChain, Python, Azure OpenAI, and Snowflake AI, which automated market research workflows and reduced time-to-insight by 30%. Evaluated and fine-tuned LLMs for enterprise use cases, improving accuracy and efficiency across business applications.",
       "duration": "January 2025 - April 2025",
       "title": "GenAI Accelerator Program Participant"
     },
     {
       "company": "Fairfield Hotel Group",
-      "description": "Delivered financial and operational analysis across a CRE portfolio; forecasted occupancy/revenue trends; generated KPIs (cap rates, IRR, rent composition); automated monthly pipelines (90% time reduction); built investor dashboards; supported audits and reconciliations with clean documentation.",
+      "description": "Delivered financial and operational analysis across a multi-property commercial real estate portfolio by developing automated reporting pipelines in Python and SQL, reducing manual reporting efforts by 90%. Built interactive dashboards to visualize key KPIs, including cap rates, IRR, occupancy rates, and rent composition, enabling data-driven business planning. Forecasted revenue and occupancy trends using statistical models and supported audits and reconciliations with well-documented, clean financial datasets.",
       "duration": "January 2022 - December 2023",
       "title": "Data Analyst Intern"
     }
@@ -75,13 +75,13 @@
       "Java",
       "HuggingFace Transformers",
       "LLMs",
-      "Agentic AI model",
+      "Agentic AI Models",
       "PyTorch",
       "Tensorflow",
       "ScikitLearn",
-      "Real Estate data APIs",
+      "Real Estate Data APIs",
       "NLP",
-      "Vector databases",
+      "Vector Databases",
       "Prompt Engineering"
     ],
     "familiar": [
@@ -89,7 +89,7 @@
       "Azure",
       "AWS",
       "PowerQuery",
-      "Data streaming",
+      "Data Streaming",
       "Kafka",
       "Hadoop"
     ],
@@ -108,5 +108,5 @@
       "YAML"
     ]
   },
-  "summary": "I am a data professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in turning large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-driven solutions that automate workflows and enhance decision-making. Passionate about building robust, production-grade data infrastructure that powers actionable insights and business growth."
+  "summary": "I am a data Engineering professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in transforming large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-powered solutions that automate workflows and accelerate decision-making. Passionate about delivering production-grade data infrastructure that drives actionable insights and business growth."
 }
