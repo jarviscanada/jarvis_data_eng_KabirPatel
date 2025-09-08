@@ -96,7 +96,7 @@ professional_experience:
 #List of edcuation
 education: 
   - school_name: "York University"
-    duration: ""
+    duration: "2020 - 2023"
     degree: "Bachelor of Science"
     department: "Computer Science"
     # optional
