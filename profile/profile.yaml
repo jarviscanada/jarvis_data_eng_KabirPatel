@@ -22,7 +22,7 @@ skills:
     - Azure OpenAI
     - LangGraph
     - JSON
-    - YAML
+    - YAML.
   # At least 5 skills
   competent:
     - Java
@@ -35,7 +35,7 @@ skills:
     - Real Estate Data APIs
     - NLP
     - Vector Databases
-    - Prompt Engineering
+    - Prompt Engineering.
   # At least 5 skills
   familiar:
     - Fortran
@@ -44,7 +44,7 @@ skills:
     - PowerQuery
     - Data Streaming
     - Kafka
-    - Hadoop
+    - Hadoop.
 
 # List of Jarvis projects
 jarvis_projects:

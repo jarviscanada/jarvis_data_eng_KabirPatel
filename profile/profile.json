@@ -82,7 +82,7 @@
       "Real Estate Data APIs",
       "NLP",
       "Vector Databases",
-      "Prompt Engineering"
+      "Prompt Engineering."
     ],
     "familiar": [
       "Fortran",
@@ -91,7 +91,7 @@
       "PowerQuery",
       "Data Streaming",
       "Kafka",
-      "Hadoop"
+      "Hadoop."
     ],
     "proficient": [
       "Python",
@@ -105,7 +105,7 @@
       "Azure OpenAI",
       "LangGraph",
       "JSON",
-      "YAML"
+      "YAML."
     ]
   },
   "summary": "I am a Data Engineering professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in transforming large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-powered solutions that automate workflows and accelerate decision-making. Passionate about delivering production-grade data infrastructure that drives actionable insights and business growth."

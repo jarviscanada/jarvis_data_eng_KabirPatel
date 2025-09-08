@@ -4,11 +4,11 @@ I am a Data Engineering professional with 3+ years of experience designing and d
 
 ## Skills
 
-**Proficient:** Python, Snowflake, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Sigma Computing BI, PowerBI, Azure OpenAI, LangGraph, JSON, YAML
+**Proficient:** Python, Snowflake, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Sigma Computing BI, PowerBI, Azure OpenAI, LangGraph, JSON, YAML.
 
-**Competent:** Java, HuggingFace Transformers, LLMs, Agentic AI Models, PyTorch, Tensorflow, ScikitLearn, Real Estate Data APIs, NLP, Vector Databases, Prompt Engineering
+**Competent:** Java, HuggingFace Transformers, LLMs, Agentic AI Models, PyTorch, Tensorflow, ScikitLearn, Real Estate Data APIs, NLP, Vector Databases, Prompt Engineering.
 
-**Familiar:** Fortran, Azure, AWS, PowerQuery, Data Streaming, Kafka, Hadoop
+**Familiar:** Fortran, Azure, AWS, PowerQuery, Data Streaming, Kafka, Hadoop.
 
 ## Jarvis Projects
 
