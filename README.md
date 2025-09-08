@@ -1,6 +1,6 @@
 # Kabir Patel . Jarvis Consulting
 
-I am a data Engineering professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in transforming large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-powered solutions that automate workflows and accelerate decision-making. Passionate about delivering production-grade data infrastructure that drives actionable insights and business growth.
+I am a Data Engineering professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in transforming large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-powered solutions that automate workflows and accelerate decision-making. Passionate about delivering production-grade data infrastructure that drives actionable insights and business growth.
 
 ## Skills
 
@@ -15,13 +15,13 @@ I am a data Engineering professional with 3+ years of experience designing and d
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KabirPatel](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/linux_sql)]: Built and deployed automated monitoring agents on multiple Linux servers to capture real-time hardware and resource metrics, storing data in a centralized PostgreSQL database. Delivered insights that optimized cluster performance and reduced annual operational costs by $36,000. Tech Stack: Bash, Docker, PostgreSQL, Git, Cron, Linux
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/linux_sql)]: Built and deployed automated monitoring agents on multiple Linux servers to capture real-time hardware and resource metrics, storing data in a centralized PostgreSQL database. Delivered insights that optimized cluster performance and reduced annual operational costs by $36,000. Tech Stack: Bash, Docker, PostgreSQL, Git, Cron, Linux.
 
 
 ## Highlighted Projects
-**Agentic AI Model**: Designed and deployed an Agentic AI model to automate data reporting for stakeholders. Orchestrated multi-step agent workflows (retrieval, transformation, summarization) with robust exception handling and reporting, improving data accuracy and reporting efficiency. Tech Stack: Python, S3, Snowflake, Sigma BI, LangChain, GPT, JSON, Git
+**Agentic AI Model**: Designed and deployed an Agentic AI model to automate data reporting for stakeholders. Orchestrated multi-step agent workflows (retrieval, transformation, summarization) with robust exception handling and reporting, improving data accuracy and reporting efficiency. Tech Stack: Python, S3, Snowflake, Sigma BI, LangChain, GPT, JSON, Git.
 
-**Real Estate Recommendation Engine**: Developed a real-time recommendation engine to identify high-potential submarkets for real estate investments using demographic, listing and market data. Built forecasting algorithms with AI/ML models to predict property trends and delivered interactive dashboards and insights for non-technical stakeholders. Tech Stack: Python, TensorFlow, Scikit-learn, GPT, Snowflake, Sigma BI, Redfin API, Zillow API, US Census API
+**Real Estate Recommendation Engine**: Developed a real-time recommendation engine to identify high-potential submarkets for real estate investments using demographic, listing and market data. Built forecasting algorithms with AI/ML models to predict property trends and delivered interactive dashboards and insights for non-technical stakeholders. Tech Stack: Python, TensorFlow, Scikit-learn, GPT, Snowflake, Sigma BI, Redfin API, Zillow API, US Census API.
 
 
 ## Professional Experiences

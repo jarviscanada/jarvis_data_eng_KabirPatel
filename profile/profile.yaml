@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_KabirPatel
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I am a data Engineering professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in transforming large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-powered solutions that automate workflows and accelerate decision-making. Passionate about delivering production-grade data infrastructure that drives actionable insights and business growth.
+summary: I am a Data Engineering professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in transforming large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-powered solutions that automate workflows and accelerate decision-making. Passionate about delivering production-grade data infrastructure that drives actionable insights and business growth.
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
@@ -52,18 +52,15 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Built and deployed automated monitoring agents on multiple Linux servers to capture real-time hardware and resource metrics, storing data in a centralized PostgreSQL database. Delivered insights that optimized cluster performance and reduced annual operational costs by $36,000. 
-Tech Stack: Bash, Docker, PostgreSQL, Git, Cron, Linux"
+    description: "Built and deployed automated monitoring agents on multiple Linux servers to capture real-time hardware and resource metrics, storing data in a centralized PostgreSQL database. Delivered insights that optimized cluster performance and reduced annual operational costs by $36,000. Tech Stack: Bash, Docker, PostgreSQL, Git, Cron, Linux."
 # List of personal or academic projects
 # Feel free to add more projects
 highlighted_projects:
     #project name
   - name: "Agentic AI Model"
-    description: "Designed and deployed an Agentic AI model to automate data reporting for stakeholders. Orchestrated multi-step agent workflows (retrieval, transformation, summarization) with robust exception handling and reporting, improving data accuracy and reporting efficiency.
-Tech Stack: Python, S3, Snowflake, Sigma BI, LangChain, GPT, JSON, Git"
+    description: "Designed and deployed an Agentic AI model to automate data reporting for stakeholders. Orchestrated multi-step agent workflows (retrieval, transformation, summarization) with robust exception handling and reporting, improving data accuracy and reporting efficiency. Tech Stack: Python, S3, Snowflake, Sigma BI, LangChain, GPT, JSON, Git."
   - name: "Real Estate Recommendation Engine"
-    description: "Developed a real-time recommendation engine to identify high-potential submarkets for real estate investments using demographic, listing and market data. Built forecasting algorithms with AI/ML models to predict property trends and delivered interactive dashboards and insights for non-technical stakeholders.
-Tech Stack: Python, TensorFlow, Scikit-learn, GPT, Snowflake, Sigma BI, Redfin API, Zillow API, US Census API"
+    description: "Developed a real-time recommendation engine to identify high-potential submarkets for real estate investments using demographic, listing and market data. Built forecasting algorithms with AI/ML models to predict property trends and delivered interactive dashboards and insights for non-technical stakeholders. Tech Stack: Python, TensorFlow, Scikit-learn, GPT, Snowflake, Sigma BI, Redfin API, Zillow API, US Census API."
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
