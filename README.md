@@ -1,8 +1,47 @@
-# Jarvis Data Engineering Training
-1. [Linux Cluster Monitoring Agent (Linux and SQL)](./linux_sql) In-progress
-2. [Core Java Apps](./core_java) In-progress
-3. [Python Data Analytics](./python_data_analytics) In-progress
-4. [Spring Boot Trading REST API](./springboot) In-progress
-5. [Javascript Front End](./javascript) In-progress
-6. [Cloud/DevOps](./cloud_devops) In-progress
+# Kabir Patel . Jarvis Consulting
 
+I am a Data Engineering professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in transforming large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-powered solutions that automate workflows and accelerate decision-making. Passionate about delivering production-grade data infrastructure that drives actionable insights and business growth.
+
+## Skills
+
+**Proficient:** Python, Snowflake, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Sigma Computing BI, PowerBI, Azure OpenAI, LangGraph, JSON, YAML.
+
+**Competent:** Java, HuggingFace Transformers, LLMs, Agentic AI Models, PyTorch, Tensorflow, ScikitLearn, Real Estate Data APIs, NLP, Vector Databases, Prompt Engineering.
+
+**Familiar:** Fortran, Azure, AWS, PowerQuery, Data Streaming, Kafka, Hadoop.
+
+## Jarvis Projects
+
+Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KabirPatel](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel)
+
+
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/linux_sql)]: Built and deployed automated monitoring agents on multiple Linux servers to capture real-time hardware and resource metrics, storing data in a centralized PostgreSQL database. Delivered insights that optimized cluster performance and reduced annual operational costs by $36,000. Tech Stack: Bash, Docker, PostgreSQL, Git, Cron, Linux.
+
+
+## Highlighted Projects
+**Agentic AI Model**: Designed and deployed an Agentic AI model to automate data reporting for stakeholders. Orchestrated multi-step agent workflows (retrieval, transformation, summarization) with robust exception handling and reporting, improving data accuracy and reporting efficiency. Tech Stack: Python, S3, Snowflake, Sigma BI, LangChain, GPT, JSON, Git.
+
+**Real Estate Recommendation Engine**: Developed a real-time recommendation engine to identify high-potential submarkets for real estate investments using demographic, listing and market data. Built forecasting algorithms with AI/ML models to predict property trends and delivered interactive dashboards and insights for non-technical stakeholders. Tech Stack: Python, TensorFlow, Scikit-learn, GPT, Snowflake, Sigma BI, Redfin API, Zillow API, US Census API.
+
+
+## Professional Experiences
+
+**Data Engineer, Jarvis Consulting (August 2025 - Present)**: Designed and deployed end-to-end data pipelines, ETL workflows, and data models supporting analytics and automation initiatives. Built a Linux/SQL cluster monitoring platform to track system performance in real time, enabling proactive issue detection and reducing downtime by 40%. Developed clean database schemas, automated ETL processes, and interactive dashboards, which improved data consistency, reduced manual reporting by 60%, and enhanced overall operational efficiency while working in an Agile, Git-based environment to ensure reproducibility and faster deployments.
+
+**Centre Director, Mathnasium (May 2024 - Present)**: Managed daily operations, team performance, and learning workflows, aligning instructional quality with company-wide standards. Designed data-driven routines to track attendance, retention, and student progress, improving parent satisfaction and reducing churn by 15%. Oversaw budgeting, vendor management, and stakeholder communication, while optimizing resource allocation and streamlining operational processes for greater efficiency.
+
+**Real Estate Data & AI Consultant, Emergent Ventures (January 2023 - May 2025)**: Developed AI-powered analytics solutions and automated real estate intelligence pipelines to enhance data-driven investment strategies. Built Python-based pipelines integrating Redfin, RealPage, Zillow, and US Census APIs, ingesting and processing 500+ TB of property and demographic data. Designed Snowflake data warehouses and Sigma/Power BI dashboards for lease, sales, and demographic analytics, enabling smarter portfolio decisions. Leveraged LLMs and LangChain to build GenAI-powered valuation and trend analysis tools, reducing manual research time by 40% and improving broker insights.
+
+**GenAI Accelerator Program Participant, Cognizant (January 2025 - April 2025)**: Completed an enterprise-focused GenAI program specializing in LLMs, AI agents, and prompt engineering. Designed document summarization and trend extraction agents using tools like LangChain, Python, Azure OpenAI, and Snowflake AI, which automated market research workflows and reduced time-to-insight by 30%. Evaluated and fine-tuned LLMs for enterprise use cases, improving accuracy and efficiency across business applications.
+
+**Data Analyst Intern, Fairfield Hotel Group (January 2022 - December 2023)**: Delivered financial and operational analysis across a multi-property commercial real estate portfolio by developing automated reporting pipelines in Python and SQL, reducing manual reporting efforts by 90%. Built interactive dashboards to visualize key KPIs, including cap rates, IRR, occupancy rates, and rent composition, enabling data-driven business planning. Forecasted revenue and occupancy trends using statistical models and supported audits and reconciliations with well-documented, clean financial datasets.
+
+
+## Education
+**York University (2020 - 2023)**, Bachelor of Science, Computer Science
+- Scholarship
+
+
+## Miscellaneous
+- Cognizant GenAI Accelerator - Top Performer (2025)
+- Snowflake Data Warehousing - Certified (2024)
