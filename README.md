@@ -1,10 +1,10 @@
 # Kabir Patel . Jarvis Consulting
 
-I am a Data Engineering professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in transforming large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-powered solutions that automate workflows and accelerate decision-making. Passionate about delivering production-grade data infrastructure that drives actionable insights and business growth.
+Data Engineering professional with 3+ years of experience designing and deploying scalable ETL pipelines, data models, and analytics platforms across real estate, education, and fintech domains. Skilled in data integration, warehousing, and performance optimization, with expertise in transforming large, raw datasets into reliable, analytics-ready assets. Experienced in leveraging LLMs, AI agents, and NLP to build GenAI-powered solutions that automate workflows and accelerate decision-making. Passionate about delivering production-grade data infrastructure that drives actionable insights and business growth.
 
 ## Skills
 
-**Proficient:** Python, Snowflake, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Sigma Computing BI, PowerBI, Azure OpenAI, LangGraph, JSON, YAML.
+**Proficient:** Python, PySpark, Snowflake, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Sigma Computing BI, PowerBI, Azure OpenAI, LangGraph, JSON, YAML.
 
 **Competent:** Java, HuggingFace Transformers, LLMs, Agentic AI Models, PyTorch, Tensorflow, ScikitLearn, Real Estate Data APIs, NLP, Vector Databases, Prompt Engineering.
 
@@ -15,7 +15,11 @@ I am a Data Engineering professional with 3+ years of experience designing and d
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KabirPatel](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel)
 
 
+**Retail Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/spark)]: Implemented a scalable data analytics solution for a leading retail client by building distributed ETL pipelines in Azure Databricks using Python and PySpark to process large volumes of streaming and batch data. Integrated external market features via secure REST API calls to enhance customer insights. The solution uncovered key trends such as RFM segmentation, product affinity, and regional market patterns, enabling highly personalized marketing campaigns that increased customer engagement and overall profitability. Tech Stack: Azure Databricks, Python, PySpark, REST API, Parquet, Git
+
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master/linux_sql)]: Built and deployed automated monitoring agents on multiple Linux servers to capture real-time hardware and resource metrics, storing data in a centralized PostgreSQL database. Delivered insights that optimized cluster performance and reduced annual operational costs by $36,000. Tech Stack: Bash, Docker, PostgreSQL, Git, Cron, Linux.
+
+**Java GREP app** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KabirPatel/tree/master./core_java/grep)]: Developed a java version of the Linux GREP command and transformed it into a reusable Docker image. Tech Stack: Java 8, Maven, SLF4J, Docker, Bash, Git 
 
 
 ## Highlighted Projects
@@ -26,7 +30,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KabirPatel
 
 ## Professional Experiences
 
-**Data Engineer, Jarvis Consulting (August 2025 - Present)**: Designed and deployed end-to-end data pipelines, ETL workflows, and data models supporting analytics and automation initiatives. Built a Linux/SQL cluster monitoring platform to track system performance in real time, enabling proactive issue detection and reducing downtime by 40%. Developed clean database schemas, automated ETL processes, and interactive dashboards, which improved data consistency, reduced manual reporting by 60%, and enhanced overall operational efficiency while working in an Agile, Git-based environment to ensure reproducibility and faster deployments.
+**Data Engineer, Jarvis Consulting (July 2025 - Present)**: Designed and deployed end-to-end data pipelines, ETL workflows, and data models supporting analytics and automation initiatives. Built a Linux/SQL cluster monitoring platform to track system performance in real time, enabling proactive issue detection and reducing downtime by 40%. Developed clean database schemas, automated ETL processes, and interactive dashboards, which improved data consistency, reduced manual reporting by 60%, and enhanced overall operational efficiency while working in an Agile, Git-based environment to ensure reproducibility and faster deployments.
 
 **Centre Director, Mathnasium (May 2024 - Present)**: Managed daily operations, team performance, and learning workflows, aligning instructional quality with company-wide standards. Designed data-driven routines to track attendance, retention, and student progress, improving parent satisfaction and reducing churn by 15%. Oversaw budgeting, vendor management, and stakeholder communication, while optimizing resource allocation and streamlining operational processes for greater efficiency.
 
@@ -40,8 +44,10 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KabirPatel
 ## Education
 **York University (2020 - 2023)**, Bachelor of Science, Computer Science
 - Scholarship
+- Dean's List of appreciation
 
 
 ## Miscellaneous
 - Cognizant GenAI Accelerator - Top Performer (2025)
 - Snowflake Data Warehousing - Certified (2024)
+- Databricks Data Engineer Associate (In Progress)
